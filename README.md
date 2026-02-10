@@ -3,7 +3,7 @@
 
 - 👨‍💻 My projects are presented at [avdplassche.ch](https://avdplassche.ch)
 
-- 📫 Reach me via **vanderplassche.alexandre@gmail.com**
+- 📫 Reach me via **a.vanderplassche@proton.me**
 
 <p align="left">
 </p>
